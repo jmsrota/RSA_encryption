@@ -1,0 +1,8 @@
+Hello Bob,
+
+My name is John, this is sensitive information. My account number is: 1234,
+please be careful with this information.
+
+Best regards,
+
+John
